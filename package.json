@@ -1,6 +1,6 @@
 {
   "name": "durable-stream-client",
-  "version": "1.0.0",
+  "version": "1.0.0-beta",
   "description": "Client application for durable-stream",
   "main": "./lib/main.js",
   "module": "./lib/main.js",
